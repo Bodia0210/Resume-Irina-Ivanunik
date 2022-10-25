@@ -3,6 +3,11 @@ body {
     background-color: #F5F7FA;
 }
 
+.flag {
+    width: 25px;
+    height: 12.5px;
+}
+
 /* main styles */
 
 .main {
@@ -224,13 +229,6 @@ margin-bottom: 50px;
         line-height: 24px;
         color: gold;
         margin-right: 5px;
-}
-
-a .contact-link:hover,
-a .contact-link:focus
-{
-    color: crimson;
-    background-color: chartreuse;
 }
 
 .tech-scill-list {
